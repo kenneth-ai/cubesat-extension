@@ -1,5 +1,5 @@
 {
-    "name": "Cubesat Extension - Copy - Copy",
+    "name": "Cubesat Extension",
     "description": "",
     "dependencies": {
         "core": "*",
