@@ -1,7 +1,6 @@
-//% color=#0fbc11"
 namespace CubeSat {
     let MyAddr = {
-        ADDR: 0x76
+        ADDR: 0x19
     };
 
     let BME280_I2C_ADDRESS = {

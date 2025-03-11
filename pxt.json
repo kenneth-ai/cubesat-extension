@@ -1,11 +1,11 @@
 {
-    "name": "Cubesat Extension",
+    "name": "Cubesat Extension - Copy - Copy",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Cubesat v2.1": "pub:12245-73832-65226-21804"
+        "Cubesat v2.2": "pub:51888-49470-11296-96211"
     },
     "files": [
         "main.blocks",
