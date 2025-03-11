@@ -1,4 +1,4 @@
-//% color=#1E90FF block="CubeSat"
+//% color=#3503ff block="CubeSat"
 namespace CubeSat {
     let MyAddr = {
         ADDR: 0x19
